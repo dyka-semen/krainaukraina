@@ -8,11 +8,11 @@ var buttons = document.querySelector('#buttons');
 
 var gallery;
 var imageCounts = {
-  karp: 9,
-  podil: 9,
-  petr: 14,
-  polis: 15,
-  slob: 11
+  karp: 6,
+  podil: 5,
+  petr: 7,
+  polis: 10,
+  slob: 9
 };
 
 var imgNum;
